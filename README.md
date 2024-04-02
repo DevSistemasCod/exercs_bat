@@ -1,4 +1,4 @@
-#Exercícios
+Exercícios
 
 1 - Crie um script que gere 1 pasta em Documentos.
 
